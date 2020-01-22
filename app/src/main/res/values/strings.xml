@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LogIn</string>
+    <string name="your_string"><u>Underlined text</u></string>
 </resources>
